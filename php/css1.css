@@ -1,0 +1,24 @@
+#kolor {
+    color: black;
+    background-color: gray;
+}
+
+.main{
+    margin: auto;
+    width: 50%;
+    
+}
+.kolumna1{
+    width: 39%; 
+    float: left;
+    border: solid black;
+}
+.kolumna2{
+    width: 59%;
+    float: right;
+    border: solid black;
+}
+
+#jpeg {
+    width: 100%;
+}
